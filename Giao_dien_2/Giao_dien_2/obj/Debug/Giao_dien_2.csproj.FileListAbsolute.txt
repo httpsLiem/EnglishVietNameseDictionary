@@ -1,0 +1,28 @@
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\bin\Debug\Giao_dien_2.exe.config
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\bin\Debug\Giao_dien_2.exe
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\bin\Debug\Giao_dien_2.pdb
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.Form1.resources
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.Form2.resources
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.Properties.Resources.resources
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.exe
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.pdb
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.RJTextBox.resources
+C:\Users\DELL\Desktop\OOP\Cuoi_ki\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.UserControl1.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\bin\Debug\Giao_dien_2.exe.config
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\bin\Debug\Giao_dien_2.exe
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\bin\Debug\Giao_dien_2.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.Form1.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.Form2.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.Properties.Resources.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.RJTextBox.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.UserControl1.resources
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.exe
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\Giao_dien_2\Giao_dien_2\obj\Debug\Giao_dien_2.Form3.resources
