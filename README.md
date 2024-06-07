@@ -1,2 +1,3 @@
 # EnglishVietNameseDictionary
  
+The EnglishVietnameseDictionary project is an accessible and efficient language learning tool integrating modern technologies. It uses Google Sheets as a lightweight, flexible database, allowing real-time data #changes across all application instances. The incorporation of Google's Translation API extends support to multiple languages, bolstering user experience and turning our dictionary into a global language learning #tool. The application, structured on Object-Oriented Programming (OOP) principles, ensures enhanced security, code readability, and reusability, making it maintainable, scalable, and reliable. 
